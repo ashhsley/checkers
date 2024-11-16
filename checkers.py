@@ -5,7 +5,6 @@ class Piece:
         self.position = position
 
 class Board:
-
     def __init__(self):
         self.black_pieces = []
         self.white_pieces = []
